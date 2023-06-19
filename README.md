@@ -1,4 +1,7 @@
 # What I have learned so far in IT
+- [Helpdesk](#helpdesk)
+- [IP-Adresse](#ip-adresse)
+
 # Helpdesk
 https://youtu.be/b7VVaIiaeKY
 https://youtu.be/Wb7cSHheFT8
@@ -9,7 +12,7 @@ https://youtu.be/Wb7cSHheFT8
 - Network Administration of [[#Active directory]] or cloud services [[#Microsoft 360]]
 #
 ___
-# IP- Adresse
+# IP-Adresse
 https://youtu.be/B1vqKQIPxr0
 https://youtu.be/oZGZRtaGyG8
 https://youtu.be/po8ZFG0Xc4Q
