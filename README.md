@@ -9,7 +9,7 @@
 - [Virtual Machines and containers](#virtual-machines-and-containers)
 - [SQL](#sql)
 
-(**this is a copy and paste from my Obsidian file, structure will change and more content added**)
+(**THIS IS A COPY AND PASTE FROM MY OBSIDIAN FILE, STRUCTURE WILL CHANGE AND MORE CONTENT ADDED**)
 
 # Helpdesk
 https://youtu.be/b7VVaIiaeKY
