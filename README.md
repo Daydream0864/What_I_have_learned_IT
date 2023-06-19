@@ -1,6 +1,13 @@
 # What I have learned so far in IT
 - [Helpdesk](#helpdesk)
 - [IP-Adresse](#ip-adresse)
+- [DNS](#dns)
+- [Switches,Hubs,Router](#switches,hubs,router)
+- [Networktopology](#networktopology)
+- [Server](#server)
+- [Windows server](#windows-server)
+- [Virtual Machines and containers](#virtual-machines-and-containers)
+- [SQL](#sql)
 
 # Helpdesk
 https://youtu.be/b7VVaIiaeKY
@@ -50,7 +57,7 @@ https://youtu.be/mpQZVYPuDGU
 - computer types a domain/IP and send it to a ISP and ask if the server knows the domain. if not it ask 3 layers of others servers  **ROOT-server -> TDL Sever -> AU server.**
 #
 ___
-# Switches, Hubs, Router (hardware)
+# Switches,Hubs,Router
 https://youtu.be/zFfattg5gd8
 https://youtu.be/1z0ULvg_pW8
 - **Hubs** are sending a Broadcast to all computers (sending to all computers) (port Ethernet)
@@ -107,7 +114,7 @@ Port number 8080 is usually used for [web servers](https://www.techtarget.com/w
 
 #
 ___
-# Windows server / Active directory/ Microsoft software
+# Windows server
 https://www.youtube.com/watch?v=85-bp7XxWDQ&t=1491s
 https://youtu.be/6x4-vNmzuqU
 https://youtu.be/Q4I2lKHboDw
