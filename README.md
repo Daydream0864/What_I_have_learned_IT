@@ -2,7 +2,7 @@
 - [Helpdesk](#helpdesk)
 - [IP-Adresse](#ip-adresse)
 - [DNS](#dns)
-- [Switches,Hubs,Router](#switches,hubs,router)
+- [Switches,Hubs,Router](#switcheshubsrouter)
 - [Networktopology](#networktopology)
 - [Server](#server)
 - [Windows server](#windows-server)
@@ -54,14 +54,13 @@ https://youtu.be/mpQZVYPuDGU
 - DNS: Domain name system or Domain name server
 - DNS is a Name like google.com it's a IP adress
 - resolves names into numbers
-- computer types a domain/IP and send it to a ISP and ask if the server knows the domain. if not it ask 3 layers of others servers  **ROOT-server -> TDL Sever -> AU server.**
 #
 ___
 # Switches,Hubs,Router
 https://youtu.be/zFfattg5gd8
 https://youtu.be/1z0ULvg_pW8
 - **Hubs** are sending a Broadcast to all computers (sending to all computers) (port Ethernet)
-- **Switches** are sending to a specific computer/IP (stores MAC Adresse to specify which PC)      (port Ethernet)
+- **Switches** are sending to a specific computer/IP (stores MAC Adresse to specify which PC) (port Ethernet)
 - **Router** looking up IP adress if it's for there network or a different one.  it send the Request to that specific network. gateway for a network.
 - Hubs and switches is for building a network. Routers is for connecting Networks
 ## VLAN
