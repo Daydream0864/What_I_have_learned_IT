@@ -8,7 +8,8 @@
 - [Windows server](#windows-server)
 - [Virtual Machines and containers](#virtual-machines-and-containers)
 - [SQL](#sql)
-(**this is a copy and paste from my Obsidian file, structure will change and more content added**
+
+(**this is a copy and paste from my Obsidian file, structure will change and more content added**)
 
 # Helpdesk
 https://youtu.be/b7VVaIiaeKY
