@@ -8,7 +8,7 @@
 - [Windows server](#windows-server)
 - [Virtual Machines and containers](#virtual-machines-and-containers)
 - [SQL](#sql)
-- [firewall](#firwwall)
+- [firewall](#firewwall)
 - [Cloud Technologie](#cloud-technologie)
 
 (**THIS IS A COPY AND PASTE FROM MY OBSIDIAN FILE, STRUCTURE WILL CHANGE AND MORE CONTENT ADDED**)
