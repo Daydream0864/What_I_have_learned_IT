@@ -20,7 +20,7 @@ https://youtu.be/Wb7cSHheFT8
 - customers sending "Tickets"(Aufträge, jobs, work task) helpdesk-support will solve the problem
 - Ticketsystem where all the Tickets will be send
 - Using Remote PC service like TeamViewer or RDP(remote desktop protocol) or via phone call
-- Network Administration of [[#Active directory]] or cloud services [[#Microsoft 360]]
+- Network Administration of Active directory or cloud services Microsoft 360
 - Friendly behavior and problem solving for the costumers needs
 #
 ___
@@ -31,7 +31,6 @@ https://youtu.be/po8ZFG0Xc4Q
 https://youtu.be/s_Ntt6eTn94
 Privat IP : comes from a home network
 Public IP : comes from a router or internet service provider(ISP)
-___
 192.168.1.0 =192.168.178 is the network portion / 0 is the host portion
 255.255.255.0 = 255.255.255 is the network/ 0 = can be anything
 binary format is important. used for subnetting. 
