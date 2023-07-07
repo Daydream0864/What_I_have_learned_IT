@@ -11,6 +11,9 @@
 - [firewall](#firewall)
 - [Cloud Technologie](#cloud-technologie)
 
+  
+ ∙ *[HIER IST DIE DEUTSCHE Übersetzung](IT_Systemintegration_Erfahrung.md)*  ∙ 
+
 (**THIS IS A COPY AND PASTE FROM MY OBSIDIAN FILE, STRUCTURE WILL CHANGE AND MORE CONTENT ADDED**)<br/>
 (**Every Topic has first the resources like Videos or websites listed. After that a summery of Topics**)
 
