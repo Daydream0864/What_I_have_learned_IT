@@ -25,7 +25,7 @@ https://youtu.be/Wb7cSHheFT8
 - Adding new Users to the Active directory or creating group policies for safety concerns 
 - Friendly behavior and problem solving for the costumers needs
 - driving to the location if necessary to solve the problem or to take presence
-
+___
 # IP - Configuration
 https://youtu.be/B1vqKQIPxr0<br/>https://youtu.be/oZGZRtaGyG8<br/>https://youtu.be/po8ZFG0Xc4Q<br/>https://youtu.be/s_Ntt6eTn94<br/>https://youtu.be/pCcJFdYNamc<br/>[How Do IP Addresses Work? (howtogeek.com)](https://www.howtogeek.com/341307/how-do-ip-addresses-work/)
 ## IP - Adresse
@@ -53,14 +53,13 @@ https://youtu.be/B1vqKQIPxr0<br/>https://youtu.be/oZGZRtaGyG8<br/>https://youtu.
 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
   1     1      0    0   0   0  0    0
 Subnetmask in binary = all octet summery of all numbers (+) (255)
-
+___
 # DNS
 https://youtu.be/mpQZVYPuDGU
 - DNS: Domain name system or Domain name server
 - DNS is a Name like google.com it's actually an IP address
 - resolves names into numbers `Google.com = 8.8.8.8`
 -  It is often referred to as the phonebook of the Internet. Humans access information online through domain names
-#
 ___
 # Switches, Hubs, Router (Hardware)
 https://youtu.be/zFfattg5gd8<br/>https://youtu.be/1z0ULvg_pW8
@@ -73,7 +72,6 @@ https://youtu.be/zFfattg5gd8<br/>https://youtu.be/1z0ULvg_pW8
 - switches are able to connect to other switches via a port called "trunk"
 -  VLANs can also bring security benefits by allowing greater control over which devices have local access to each other.
 - At a high level, network administrators can set up new VLANs by choosing a valid VLAN number and a private IP address range for devices on that VLAN to use. They then configure the switch device with either static or dynamic settings. In static configurations, the administrator assigns a VLAN number to each switch port.
-#
 ___
 # Networktopology
 https://youtu.be/zbqrNg4C98U<br/>[NetSim™ Online (boson.com)](https://netsim.boson.com/labs/200-301/vlsm-practice-iii-m)
@@ -84,10 +82,9 @@ https://youtu.be/zbqrNg4C98U<br/>[NetSim™ Online (boson.com)](https://netsim.b
 - **Mesh network.** The [mesh network](https://internetofthingsagenda.techtarget.com/definition/mesh-network-topology-mesh-network) topology links nodes with connections so that multiple paths between at least some points of the network are available. A network is considered to be _fully meshed_ if all nodes are directly connected to all other nodes and _partially meshed_ if only some nodes have multiple connections to others. Meshing multiple paths increases resiliency but also increases cost. However, more space is needed for dedicated links.
 - **Tree network.** The tree network topology consists of one root node, and all other nodes are connected in a hierarchy. The topology itself is connected in a star configuration. Many larger Ethernet switch networks, including data center networks, are configured as trees.
 - **Hybrid network.** The hybrid network topology is any combination of two or more topologies. Hybrid topologies typically provide exceptional flexibility, as they can accommodate a number of setups. For example, different departments in the same organization may opt for personalized network topologies that are more adaptable to their network needs.
-#
 ___
 # Server
-https://youtu.be/UjCDWCeHCzY
+https://youtu.be/UjCDWCeHCzY<br/>
 - Server is a computer that for a specific service like Webserver, Database server, Email server, file server
 - server are more robust than home PC
 - CPU processors have the capability for multi processing, means stacks CPU cores (Intel XEON)
@@ -121,7 +118,7 @@ When work needs to be shared across multiple users, a collaboration server makes
 ### 10. Monitoring and management server
 Monitoring and management servers function in several capacities. First, they record and track digital transactions and receive user requests. Others simply monitor and don't actively participate in user operations. Monitoring servers are responsive to who network administrators survey network health to check for threats or bugs in the system.
 ## Ports numbers
-https://youtu.be/aQoFR6m1yOM<br/>https://www.ionos.de/digitalguide/server/knowhow/tcp-und-udp-ports/<br/>https://youtu.be/RDotMcs0Erg
+https://youtu.be/aQoFR6m1yOM<br/>https://www.ionos.de/digitalguide/server/knowhow/tcp-und-udp-ports/<br/>https://youtu.be/RDotMcs0Erg<br/>
 - port is not a physical connection
 - it's a  logical connection that's used by programs and services to exchange Information
 - it specifically determines which program o services on a computer or server that is going to be used like: Webpage, FTP Service, Email
@@ -135,14 +132,13 @@ Port number 8080 is usually used for [web servers](https://www.techtarget.com/w
 created a file sharing server with Linux server on a network (Proxmox) using samba.
 and a FTP server on a windows server OS. LINUX server :
   - **Linux** and windows are capable of using it.(User needs permissions if necessary)
-#
 ___
 # Windows server/Active directory
 https://www.youtube.com/watch?v=85-bp7XxWDQ&t=1491s<br/>https://youtu.be/6x4-vNmzuqU<br/>https://youtu.be/Q4I2lKHboDw<br/>https://youtu.be/0DLRRv6Evjo<br/>https://youtu.be/cBe5nnnJbSQ<br/>https://learn.microsoft.com/en-us/certifications/
 - Windows Server is designed to be used in a networked environment and provides features such as Active Directory, which allows administrators to manage users and computers in a network. It also provides features such as Group Policy, which allows administrators to manage settings for users and computers in a network. 
 
 ## Active directory
-https://www.makeuseof.com/tag/windows-domain/
+https://www.makeuseof.com/tag/windows-domain/<br/>
 Active Directory (AD) is a Microsoft proprietary directory service that runs on Windows Server. It enables administrators to manage permissions and access to network resources by storing data as objects. It is included in most Windows Server operating systems as a set of processes and services. AD DS (Active Directory Domain Services) provides the methods for storing directory data and making this data available to network users and administrators. Managing Domains/PC for permissions for Users. Managing of networks of Users. It is a distributed, hierarchical database that stores information about users, computers, groups, devices, and other objects. Active Directory allows network administrators to create and manage domains, users, and objects within a network. It provides a common interface for locating, securing, and organizing these resources
  - creating and managing Users
  - restricting users policies 
@@ -156,13 +152,12 @@ https://youtu.be/dGEiwyBkS3w
 - created a FTP service on a **Windows server** where I can share files in a network
 - I also was able to figure out how to use share folders using: share folder method. and I granted 2 Users to share files between them in a Domain network.
 ## Domain
-https://youtu.be/ut_oLhMhJsY
+https://youtu.be/ut_oLhMhJsY<br/>
 <u>At least one server, called a **Domain controller**, is in charge of the other devices. This lets the network administrators (usually IT staff) control the computers on the domain through users, settings, and more. A Windows domain is essentially a network of controlled computers used in a business setting.</u>
 ## Microsoft 360
 - MS SharePoint: website builder and organization of  teams
 - Microsoft teams for managing teams and Appointments 
 - Microsoft 365 Cloud / Power Plattform
-#
 ___
 # Cloud Technologie
 - Simply put, cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale. You typically pay only for cloud services you use, helping you lower your operating costs, run your infrastructure more efficiently, and scale as your business needs change
@@ -183,7 +178,6 @@ ___
    - Self-service: The ability to provision and manage your own resources, without needing to go through a lengthy approval process.
    - Shared resources: The ability to share resources with other users, in order to increase efficiency and reduce costs.
    - Multi-tenancy: The ability to have multiple users on the same platform, without each user having their own dedicated resources.
-#
 ___
 # Virtual Machines and containers
 https://youtu.be/wX75Z-4MEoM<br/>https://youtu.be/eyNBf1sqdBQ<br/>https://www.youtube.com/watch?v=apC1bOLbzbY<br/>
@@ -203,7 +197,7 @@ a **virtual machine (VM)** is a software-based simulation of a physical comput
 2. Software compatibility
 3. Isolation
 ## Containers
-https://youtu.be/eyNBf1sqdBQ
+https://youtu.be/eyNBf1sqdBQ<br/>
 https://www.youtube.com/watch?v=eGz9DS-aIeY&t=1152s
 - In the context of computing, a **container** is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
 - Containers are an abstraction at the app layer that packages code and dependencies together. Multiple containers can run on the same machine and share the OS kernel with other containers, each running as isolated processes in user space
@@ -216,12 +210,11 @@ necessary for it to run. for example a website or a program just for one applica
 1. Portability
 2. Isolation
 3. Efficiency
-#
----
+___
 # SQL
-https://youtu.be/xiUTqnI6xk8
-https://youtu.be/W2Z7fbCLSTw
-https://github.com/donnemartin/system-design-primer#system-design-topics-start-here
+https://youtu.be/xiUTqnI6xk8<br/>
+https://youtu.be/W2Z7fbCLSTw<br/>
+https://github.com/donnemartin/system-design-primer#system-design-topics-start-here<br/>
 - SQL (Structured Query Language) is a standard language for accessing and manipulating databases. It lets you execute queries against a database, retrieve data from a database, insert records in a database, update records in a database, delete records from a database, create new databases, create new tables in a database, create stored procedures in a database, create views in a database and set permissions on tables, procedures and views.
 - SQL creates a table with columns and rows like an excel spreadsheet
 - SQL Data Management System (RDBMS = Relational (related to each other)): PostgreSQL, Microsoft SQLserver, MYSQL
@@ -235,7 +228,6 @@ CREATE TABLE customers (
   phone VARCHAR(15)
 );
 ```
-#
 ___
 # Firewall
 A firewall is a network security device that monitors incoming and outgoing network traffic and permits or blocks data packets based on a set of security rules. It is designed to prevent unauthorized access to or from a private network. Firewalls can be implemented in both hardware and software, or a combination of both .A firewall is a [network security](https://www.forcepoint.com/cyber-edu/network-security) device that monitors incoming and outgoing network traffic and permits or blocks data [packets](https://www.forcepoint.com/cyber-edu/packet-loss) based on a set of security rules. Its purpose is to establish a barrier between your internal network and incoming traffic from external sources (such as the internet) in order to block malicious traffic like viruses and hackers.
