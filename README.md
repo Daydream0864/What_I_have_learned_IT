@@ -21,7 +21,7 @@ https://youtu.be/Wb7cSHheFT8
 - customers sending "Tickets" (work tasks, objectives) and helpdesk-support will solve the problems
 - Ticketsystems are where all the Tickets will be send
 - Using Remote PC service like TeamViewer or RDP(remote desktop protocol) or via phone call to solve the Issues
-- Network Administration of [[#Active directory]] or cloud services [[#Microsoft 360]]
+- Network Administration of Active Directory or cloud services like Microsoft 360
 - Adding new Users to the Active directory or creating group policies for safety concerns 
 - Friendly behavior and problem solving for the costumers needs
 - driving to the location if necessary to solve the problem or to take presence
