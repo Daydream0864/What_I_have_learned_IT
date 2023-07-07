@@ -47,12 +47,14 @@ https://youtu.be/B1vqKQIPxr0<br/>https://youtu.be/oZGZRtaGyG8<br/>https://youtu.
 - IP Subnetting is a process of dividing a large IP network in smaller IP networks. In Subnetting we create multiple small manageable networks from a single large IP network.
 - To best utilize available addresses if we put more than 16000000 hosts in a single network, due to broadcast and collision, that network will never work. If we put less hosts then remaining addresses will be wasted. Subnetting provides a better way to deal with this situation. Subnetting allows us to create smaller networks from a single large network which not only fulfill our hosts’ requirement but also offer several other networking benefits.
 ### Example
-192.168.1.0 =  11000000.10101000.00000001.0000000
-255.255.255 = 11111111.11111111.11111111.0000000
+192.168.1.0 =  11000000.10101000.00000001.0000000<br/>
+255.255.255 = 11111111.11111111.11111111.0000000<br/>
+Subnetmask in binary = all octet summery of all numbers (+) (255)<br/>
+
 192 in binary = 128+64 =192
-128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
-  1     1      0    0   0   0  0    0
-Subnetmask in binary = all octet summery of all numbers (+) (255)
+128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 
+--- | -- | -- | -- | -- | -- | -- | -- 
+1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 
 ___
 # DNS
 https://youtu.be/mpQZVYPuDGU
