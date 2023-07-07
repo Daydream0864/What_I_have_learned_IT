@@ -25,8 +25,7 @@ https://youtu.be/Wb7cSHheFT8
 - Adding new Users to the Active directory or creating group policies for safety concerns 
 - Friendly behavior and problem solving for the costumers needs
 - driving to the location if necessary to solve the problem or to take presence
-#
-___
+
 # IP - Configuration
 https://youtu.be/B1vqKQIPxr0<br/>https://youtu.be/oZGZRtaGyG8<br/>https://youtu.be/po8ZFG0Xc4Q<br/>https://youtu.be/s_Ntt6eTn94<br/>https://youtu.be/pCcJFdYNamc<br/>[How Do IP Addresses Work? (howtogeek.com)](https://www.howtogeek.com/341307/how-do-ip-addresses-work/)
 ## IP - Adresse
@@ -54,8 +53,7 @@ https://youtu.be/B1vqKQIPxr0<br/>https://youtu.be/oZGZRtaGyG8<br/>https://youtu.
 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
   1     1      0    0   0   0  0    0
 Subnetmask in binary = all octet summery of all numbers (+) (255)
-#
-___
+
 # DNS
 https://youtu.be/mpQZVYPuDGU
 - DNS: Domain name system or Domain name server
